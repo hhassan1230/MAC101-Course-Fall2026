@@ -4,12 +4,30 @@
 Department of Mathematics, Engineering, and Computer Science
 This is the Fall 2026 Course for MAC101 Intro to C++
 
+👋 **Welcome!** This repository is your guide to the MAC101 semester — the syllabus, weekly schedule, textbook info, grading breakdown, and links to all course materials. Use the Table of Contents below to quickly find what you need.
+
+## Table of Contents
+
+- [Course Information](#mac101-introduction-to-computer-science)
+- [Catalog Description](#catalog-description)
+- [Instructional Objectives](#instructional-objectives)
+- [Performance Objectives](#performance-objectives)
+- [Textbook](#textbook)
+- [Core Competencies](#core-competencies)
+- [Repository Structure](#repository-structure)
+- [Course Outline (Tentative)](#course-outline-tentative)
+- [Grading Standards (Tentative)](#grading-standards-tentative)
+
+---
+
 ## MAC101: Introduction to Computer Science
 
-**Hours:** 4 (3 lecture, 1 lab)  
-**Credits:** 3  
-**Prerequisites:** CSE099 and MAT200  
-**Pre/Co-requisites:** ENG/ESA099/ENC101, ENA099
+| | |
+|---|---|
+| **Hours** | 4 (3 lecture, 1 lab) |
+| **Credits** | 3 |
+| **Prerequisites** | CSE099 and MAT200 |
+| **Pre/Co-requisites** | ENG/ESA099/ENC101, ENA099 |
 
 ---
 
@@ -62,91 +80,51 @@ ISBN: 978-0134314303
 
 ---
 
+## Repository Structure
+
+Course materials are organized into three folders so you always know where to look:
+
+| Folder | What you'll find |
+|---|---|
+| 📚 [`Lectures/`](./Lectures) | Slide decks and notes (PDF) used in class. |
+| 🧪 [`Labs/`](./Labs) | Lab handouts (PDF) plus starter/example C++ code for each lab session. |
+| 📝 [`Projects/`](./Projects) | Instructions for the semester research project. |
+
+> 💡 Not sure which file goes with which week? Check the [Course Outline](#course-outline-tentative) below, then open the matching folder.
+
+---
+
 ## Course Outline (Tentative)
 
-### Week 1
+> 📌 This schedule is tentative — your instructor may adjust topics, dates, or deliverables as the semester progresses.
 
-- Introduction to programming concepts and advances in computer science
-- Inputs and outputs in C++
-- **Lab 1:** Setting up C++ IDE
-- **HW 1**
-
-### Week 2
-
-- Number systems (different bases)
-- **Lab 2:** Base conversion
-- **Quiz 1**
-
-### Week 3
-
-- Data types, variables, assignments
-- **Lab 3:** Variables and assignments
-- **HW 2**
-
-### Week 4
-
-- Selection/conditional statements
-- **Lab 4:** Programs with conditionals
-
-### Week 5
-
-- Repetition statements (loops)
-- **Midterm 1**
-
-### Week 6
-
-- Functions and parameters
-- **Lab 5:** Loops and functions
-- **HW 3**
-
-### Week 7
-
-- Scope of variables, passing by value vs. reference
-- Basics of recursion
-- **Lab 6:** Functions practice
-
-### Week 8
-
-- Introduction to arrays
-- **Lab 7:** Arrays for storing data
-- **HW 4**
-- **Quiz 2**
-
-### Week 9
-
-- Introduction to pointers
-- **Lab 8:** Programs with pointers
-
-### Week 10
-
-- Strings and text processing
-- **Midterm 2**
-
-### Week 11
-
-- File processing (reading/writing files)
-- **Lab 9:** File programs
-- **HW 5**
-
-### Week 12
-
-- Sorting algorithms
-- **Lab 10:** Sorting programs
-- **Research Presentation**
-
-### Week 13
-
-- **Final Exam**
+| Week | Topics | Lab | Assignments / Exams |
+|---|---|---|---|
+| 1 | Introduction to programming concepts and advances in computer science; inputs and outputs in C++ | Lab 1: Setting up C++ IDE | HW 1 |
+| 2 | Number systems (different bases) | Lab 2: Base conversion | Quiz 1 |
+| 3 | Data types, variables, assignments | Lab 3: Variables and assignments | HW 2 |
+| 4 | Selection/conditional statements | Lab 4: Programs with conditionals | — |
+| 5 | Repetition statements (loops) | — | Midterm 1 |
+| 6 | Functions and parameters | Lab 5: Loops and functions | HW 3 |
+| 7 | Scope of variables, passing by value vs. reference; basics of recursion | Lab 6: Functions practice | — |
+| 8 | Introduction to arrays | Lab 7: Arrays for storing data | HW 4, Quiz 2 |
+| 9 | Introduction to pointers | Lab 8: Programs with pointers | — |
+| 10 | Strings and text processing | — | Midterm 2 |
+| 11 | File processing (reading/writing files) | Lab 9: File programs | HW 5 |
+| 12 | Sorting algorithms | Lab 10: Sorting programs | Research Presentation |
+| 13 | Final Exam | — | — |
 
 ---
 
 ## Grading Standards (Tentative)
 
-- Research Project: **10%**
-- Quizzes: **10%**
-- Homework & Labs: **20%**
-- Midterm Exams (2 × 15%): **30%**
-- Final Exam: **30%**
-- **Total: 100%**
+| Component | Weight |
+|---|---|
+| Research Project | 10% |
+| Quizzes | 10% |
+| Homework & Labs | 20% |
+| Midterm Exams (2 × 15%) | 30% |
+| Final Exam | 30% |
+| **Total** | **100%** |
 
 ---
